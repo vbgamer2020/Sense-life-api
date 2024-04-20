@@ -1,0 +1,36 @@
+{
+  "mangas": [
+    {
+      "id": 1,
+      "titulo": "Sense Life",
+      "autores": [
+        {
+          "id": 1,
+          "nome": "Kaleb"
+        },
+        {
+          "id": 2,
+          "nome": "Noah"
+        }
+      ],
+      "sinopse": "Em um mundo onde as emoções determinam o futuro, Kaleb e Noah embarcam em uma jornada para desvendar os segredos de Sense Life.",
+      "generos": [
+        "Drama",
+        "Fantasia",
+        "Shounen"
+      ],
+      "capitulos": [
+        {
+          "id": 1,
+          "titulo": "O Despertar",
+          "paginas": 32
+        },
+        {
+          "id": 2,
+          "titulo": "A Jornada Começa",
+          "paginas": 48
+        }
+      ]
+    }
+  ]
+}
